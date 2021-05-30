@@ -1,0 +1,8 @@
+Hello World
+Hey, how are you?
+Red
+Green
+White
+Black
+Pink
+Yellow

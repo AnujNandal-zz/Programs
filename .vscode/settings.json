@@ -1,0 +1,29 @@
+{
+    "cSpell.ignoreWords": [
+        "asarray",
+        "bvocitsd",
+        "cstr",
+        "delay",
+        "digital",
+        "fileptr",
+        "fname",
+        "high",
+        "infile",
+        "isalpha",
+        "iscomplex",
+        "isdigit",
+        "islower",
+        "isnan",
+        "istitle",
+        "isupper",
+        "mode",
+        "myfile",
+        "narr",
+        "ndarray",
+        "ndim",
+        "pin",
+        "rfind",
+        "semii",
+        "write"
+    ]
+}
